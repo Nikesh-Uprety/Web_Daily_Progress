@@ -1,0 +1,6 @@
+a[target="_self"]{
+    color: rgb(230, 60, 88);
+}
+a[target="_blank"]{
+    color: rgb(0, 0, 0);
+}
